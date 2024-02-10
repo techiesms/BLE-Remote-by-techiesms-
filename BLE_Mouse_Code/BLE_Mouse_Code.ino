@@ -75,7 +75,7 @@ void but_pressed()
 // delay between data
 void ScrollDelay()
 {
-  delay(15.5);
+  delay(50);
 }
 // to read button value and transmit data
 void mouseconnected()
